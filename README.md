@@ -1,4 +1,4 @@
-# Amazon Bedrock with Voice Response (Support visually impared users - 508)
+# Amazon Bedrock with Voice Response (Support visually impaired users - 508)
 
 In this example, we demonstrate [Amazon Bedrock](https://aws.amazon.com/bedrock/) with [Amazon Polly](https://aws.amazon.com/polly/) to convert the resulting ML response to MP3.  We then expose the model response using AWS API Gateway endpoint as a text and save the voice file in Amazon S3.
 
