@@ -8,10 +8,10 @@ This application is developed using AWS CDK in TypeScript.
 ![image](architecture.png "Amazon BedRock and Amazon Polly Architecture")
 
 ## What does it build?
-* Creates and deploys Amazon BedRock with Anthoropic's Claude3 Model
+* Creates and deploys Amazon BedRock with Anthoropic's Claude3 Sonnet Model
 * Creates a Lambda that will interact with the Model
 * Creates a S3 bucket where voice files will be stored
-* Uses Amazon Polly to convert the model result and create mp3 file and stores in S3
+* Uses Amazon Polly to convert the model result to create MP3 voice file and stores in S3
 * Creates an AWS API Gateway endpoint to expose that Lambda which returns the model response in text format
 
 ## Steps to run and test
