@@ -22,8 +22,8 @@ This application is developed using AWS CDK in TypeScript.
 * Download the MP3 and play it
 
 ## Resulting Model Response 
-* ![Here is the audio MP3 File](8ef96afe-3dcf-49ad-89e7-1a6ca1d3c84a.mp3 "Amazon Polly generated MP3")
-  * If this link doesn't work, get the MP3 file under files.
+  https://github.com/user-attachments/assets/592ae44d-399a-40d7-9a91-f86829fcc08e
+* If the audio link doesn't work, download the original Amazon Polly created file in [MP3](8ef96afe-3dcf-49ad-89e7-1a6ca1d3c84a.mp3) format under files.
 
 ## References
 * [Amazon Bedrock](https://aws.amazon.com/bedrock/)
